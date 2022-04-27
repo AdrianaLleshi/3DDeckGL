@@ -3,8 +3,8 @@
       "title": "Sensor 1",
       "description": "<p>Sensor in position 1</p>",
       "camPos": {
-        "x": 6.61,
-        "y": 1.89,
+        "x": 7.61,
+        "y": 7.89,
         "z": 6.37
       },
       "lookAt": {
