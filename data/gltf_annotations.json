@@ -4,12 +4,12 @@
       "description": "<p>Sensor in position 1</p>",
       "camPos": {
         "x": 6.61,
-        "y": 5.89,
+        "y": 4.89,
         "z": 6.37
       },
       "lookAt": {
         "x": 5.37,
-        "y": 4.27,
+        "y": 3.27,
         "z": 7.36
       }
     },
