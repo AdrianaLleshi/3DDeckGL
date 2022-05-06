@@ -1,0 +1,46 @@
+# Blender MTL File: 'market-stand.blend'
+# Material Count: 4
+
+newmtl Corrugated01s
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.429804 0.426666 0.417255
+Ks 0.026053 0.026053 0.026053
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\Users\Scott\Documents\Game assets\MARKET STAND\RENDERS\textures\alpha.png
+map_Bump C:\\Users\\Scott\\Documents\\Untitled\\Corrugated01s.jpg
+
+newmtl THATCH
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd C:\Users\Scott\Documents\Game assets\MARKET STAND\RENDERS\textures\alpha.png
+map_d C:\\Users\\Scott\\Desktop\\textures\\3086181468_edcd1f8830_o.png
+
+newmtl WOOD_#2_
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\Users\Scott\Documents\Game assets\MARKET STAND\RENDERS\textures\alpha.png
+map_Bump C:\\Users\\Scott\\Desktop\\textures\\metal_bare_0029_02_preview.jpg
+
+newmtl wood
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd C:\Users\Scott\Documents\Game assets\MARKET STAND\RENDERS\textures\alpha.png
+map_Bump C:\\Users\\Scott\\Desktop\\textures\\Wood_08_UV_H_CM_1.jpg
