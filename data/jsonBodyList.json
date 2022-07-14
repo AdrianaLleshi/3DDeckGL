@@ -1,0 +1,130 @@
+[
+  {
+    "category": {
+      "type": "Property",
+      "value": "sensor"
+    },
+    "firmwareVersion": {
+      "type": "Property",
+      "value": "12.51358"
+    },
+    "hardwareVersion": {
+      "type": "Property",
+      "value": "G-Link-200-8G OEM"
+    },
+    "id": "urn:ngsi-ld:Device:Accelerometer26741",
+    "refGateway": {
+      "object": "urn:ngsi-ld:Building:JRC:Ispra:77R:Atmospheric_Monitoring_Tower",
+      "type": "Relationship"
+    },
+    "relativePosition": {
+      "type": "Property",
+      "value": "[1, 100.00788879394531, 79.80361938476562]"
+    },
+    "serialNumber": {
+      "type": "Property",
+      "value": "6305-6181-92274"
+    },
+    "supportedProtocol": {
+      "type": "Property",
+      "value": "LRS,LXRS+"
+    },
+    "type": "Device"
+  },
+  {
+    "category": {
+      "type": "Property",
+      "value": "sensor"
+    },
+    "firmwareVersion": {
+      "type": "Property",
+      "value": "12.51358"
+    },
+    "hardwareVersion": {
+      "type": "Property",
+      "value": "G-Link-200-8G OEM"
+    },
+    "id": "urn:ngsi-ld:Device:Node26740",
+    "refGateway": {
+      "object": "urn:ngsi-ld:Building:JRC:Ispra:77R:Atmospheric_Monitoring_Tower",
+      "type": "Relationship"
+    },
+    "relativePosition": {
+      "type": "Property",
+      "value": "[-1.0000044107437134, -1.0000020265579224, -1.0000044107437134]"
+    },
+    "serialNumber": {
+      "type": "Property",
+      "value": "6305-6181-92273"
+    },
+    "supportedProtocol": {
+      "type": "Property",
+      "value": "LXRS,LXRS+"
+    },
+    "type": "Device"
+  },
+  {
+    "category": {
+      "type": "Property",
+      "value": "sensor"
+    },
+    "firmwareVersion": {
+      "type": "Property",
+      "value": "8.16"
+    },
+    "hardwareVersion": {
+      "type": "Property",
+      "value": "SG-Link"
+    },
+    "id": "urn:ngsi-ld:Device:Extensometer189",
+    "refGateway": {
+      "object": "urn:ngsi-ld:Building:JRC:Ispra:77R:Atmospheric_Monitoring_Tower",
+      "type": "Relationship"
+    },
+    "relativePosition": {
+      "type": "Property",
+      "value": "[18.899999618530273, 35.9275817871094, 77.01349639892578]"
+    },
+    "serialNumber": {
+      "type": "Property",
+      "value": "6308-3000-00189"
+    },
+    "supportedProtocol": {
+      "type": "Property",
+      "value": "LXRS"
+    },
+    "type": "Device"
+  },
+  {
+    "category": {
+      "type": "Property",
+      "value": "sensor"
+    },
+    "firmwareVersion": {
+      "type": "Property",
+      "value": "8.16"
+    },
+    "hardwareVersion": {
+      "type": "Property",
+      "value": "SG-Link"
+    },
+    "id": "urn:ngsi-ld:Device:Extensometer190",
+    "refGateway": {
+      "object": "urn:ngsi-ld:Building:JRC:Ispra:77R:Atmospheric_Monitoring_Tower",
+      "type": "Relationship"
+    },
+    "relativePosition": {
+      "type": "Property",
+      "value": "[1.887201506178826E-11, 120, 30]"
+    },
+    "serialNumber": {
+      "type": "Property",
+      "value": "6308-3000-00190"
+    },
+    "supportedProtocol": {
+      "type": "Property",
+      "value": "LXRS"
+    },
+    "type": "Device"
+  }
+]
